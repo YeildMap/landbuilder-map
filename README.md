@@ -1,29 +1,32 @@
-# Landbuilder Map
+# Landbuilder Map v2
 
-Minimal React + Vite + Leaflet Map Starter Project  
-📍 Version: v1
+Minimal React + Vite + Leaflet Map Starter Project with Extras  
+📍 Version: v2
 
 ---
 
 ## ✅ Overview
-This is a simple, clean starter project for React + Vite + Leaflet with a fully working map centered on London.
-
-It can be used as a foundation for:
-- Land planning tools
-- Property analysis apps
-- Map-based data visualization projects
+This version includes:
+- A sample marker placed in central London.
+- A floating link to the GOV.UK Planning Permission Guide.
 
 ---
 
-## ✅ Tech Stack:
-- React (with Vite for fast builds)
-- Leaflet (for maps)
-- React-Leaflet (React bindings for Leaflet)
+## ✅ Features:
+- Fullscreen, responsive map
+- OpenStreetMap tiles
+- Example marker with popup
+- Easy-to-find Planning Permission link (top right corner)
 
 ---
 
-## ✅ How to Use:
-1. Clone or download the repo.
-2. Install dependencies:
+## ✅ Quick Start:
 ```bash
 npm install
+npm run dev
+```
+
+---
+
+## ✅ License:
+MIT
