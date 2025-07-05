@@ -1,6 +1,6 @@
 {
-  "name": "landbuilder-map-v2",
-  "version": "2.0.0",
+  "name": "landbuilder-map-v3",
+  "version": "3.0.0",
   "private": true,
   "scripts": {
     "dev": "vite",
@@ -11,7 +11,9 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "leaflet": "^1.9.4",
-    "react-leaflet": "^4.2.1"
+    "react-leaflet": "^4.2.1",
+    "leaflet-draw": "^1.0.4",
+    "react-leaflet-draw": "^0.22.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.1.0",

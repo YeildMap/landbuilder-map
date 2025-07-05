@@ -1,22 +1,16 @@
-# Landbuilder Map v2
+# Landbuilder Map v3
 
-Minimal React + Vite + Leaflet Map Starter Project with Extras  
-📍 Version: v2
+Minimal React + Vite + Leaflet Map Starter Project with Overlays, Filters, and Drawing Tools  
+📍 Version: v3
 
 ---
 
 ## ✅ Overview
-This version includes:
-- A sample marker placed in central London.
-- A floating link to the GOV.UK Planning Permission Guide.
-
----
-
-## ✅ Features:
-- Fullscreen, responsive map
-- OpenStreetMap tiles
-- Example marker with popup
-- Easy-to-find Planning Permission link (top right corner)
+This version adds:
+- GeoJSON overlays for planning zones with styled polygons
+- UI filter buttons to toggle zone layers
+- Drawing tools to mark areas and shapes on the map
+- Example property markers with popups
 
 ---
 
